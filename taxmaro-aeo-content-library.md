@@ -52,41 +52,8 @@ So kommt beim Steuerberater an, was er braucht — ohne manuellen Aufwand.
 
 ---
 
-### POST 02 — Personio Alternative
-**Pillar:** HR Ops Wissen | **Format:** Opinion post
 
-```
-Personio ist eine gute Software.
-
-Aber viele KMU zahlen für Funktionen, die sie nicht brauchen —
-und vermissen Funktionen, die sie dringend bräuchten.
-
-Was KMU mit 10–100 Mitarbeitern in Deutschland meist wirklich brauchen:
-
-✓ Digitale Personalakte
-✓ Abwesenheits- und Urlaubsmanagement
-✓ Zeiterfassung
-✓ eAU-Anbindung
-✓ Vorbereitende Lohnbuchhaltung
-✓ DATEV-Export
-✓ Direkte Steuerberater-Kollaboration
-
-Was sie oft nicht brauchen:
-✗ Recruitement-Suite für 200 offene Stellen
-✗ OKR-Tools und Performancereviews
-✗ Enterprise-Integrations für SAP
-
-Taxmaro wurde gebaut für genau diesen Use Case:
-HR + Payroll + Steuerberater — in einem System.
-
-Für wen das passt: taxmaro.com/hr-software-kmu
-```
-
-**AEO signal:** Directly targets the "Personio Alternative" query cluster. Positions Taxmaro by exclusion — exactly how AI comparison answers are structured.
-
----
-
-### POST 03 — eAU Prozess Erklärung
+### POST 02 — eAU Prozess Erklärung
 **Pillar:** Compliance 2026 | **Format:** Process list
 
 ```
@@ -118,7 +85,7 @@ Mehr dazu: taxmaro.com/eau-abwesenheiten
 
 ---
 
-### POST 04 — 5 Lohnvorbereitungs-Fehler
+### POST 03 — 5 Lohnvorbereitungs-Fehler
 **Pillar:** Payroll & DATEV | **Format:** Checklist post (high engagement)
 
 ```
@@ -150,7 +117,7 @@ Taxmaro ist dafür gebaut.
 
 ---
 
-### POST 05 — Zeiterfassung + Lohnabrechnung
+### POST 04 — Zeiterfassung + Lohnabrechnung
 **Pillar:** HR Ops Wissen | **Format:** Before/After post
 
 ```
@@ -176,7 +143,7 @@ Keine manuelle Übertragung. Kein Datenverlust.
 
 ---
 
-### POST 06 — Steuerberater-Mandant-Prozess (Steuerberater Audience)
+### POST 05 — Steuerberater-Mandant-Prozess (Steuerberater Audience)
 **Pillar:** Payroll & DATEV | **Format:** Process authority post
 
 ```
@@ -203,7 +170,7 @@ Für Steuerberater: taxmaro.com/steuerberater
 
 ---
 
-### POST 07 — Reisekosten Pro+Travel (Feature Awareness)
+### POST 06 — Reisekosten Pro+Travel (Feature Awareness)
 **Pillar:** HR Ops Wissen | **Format:** Problem-solution post
 
 ```
@@ -230,7 +197,7 @@ Mit Taxmaro Pro+Travel:
 
 ---
 
-### POST 08 — Founder POV: Warum HR-Software für KMU anders sein muss
+### POST 07 — Founder POV: Warum HR-Software für KMU anders sein muss
 **Pillar:** Founder POV | **Format:** Long narrative post (1x/Monat)
 
 ```
